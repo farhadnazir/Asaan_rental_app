@@ -32,13 +32,18 @@
 *(Click on images to enlarge)*
 
 | 📊 Interactive Dashboard | 🏢 Apartment Management |
-|:---:|:---:|<img width="1916" height="1067" alt="Screenshot 2026-03-08 194106" src="https://github.com/user-attachments/assets/2c7828ff-b2a5-459e-9a9d-fbd04f867f12" />
+|:---:|:---:|
 
-| <img src="https://github.com/user-attachments/assets/2c7828ff-b2a5-459e-9a9d-fbd04f867f12" width="400" alt="Dashboard"> | <img src="[Apartment-Screenshot-Link-Here]" width="400" alt="Apartments"> |
+| <img src="https://github.com/user-attachments/assets/2c7828ff-b2a5-459e-9a9d-fbd04f867f12" width="400" alt="Dashboard"> | <img width="400" alt="Screenshot 2026-03-08 195104" src="https://github.com/user-attachments/assets/1a18ec00-695e-4d1f-8c75-c7e863e2bdcb" />
+ |
 
 | 👥 Tenant Profiles | 📝 Payment Tracking |
 |:---:|:---:|
-| <img src="[Tenant-Screenshot-Link-Here]" width="400" alt="Tenants"> | <img src="[Payment-Screenshot-Link-Here]" width="400" alt="Payments"> |
+| <img width="400" alt="Screenshot 2026-03-08 195214" src="https://github.com/user-attachments/assets/1e58e7d7-ef9e-41b5-a0d8-ecd8aa98ad7d" /> |<img width="400"  alt="Screenshot 2026-03-08 195237" src="https://github.com/user-attachments/assets/13efe8b9-9ba5-425b-b4ea-1d3656de4efb" /> |
+
+<img width="500"  alt="Screenshot 2026-03-08 195312" src="https://github.com/user-attachments/assets/7687b6fd-9172-44d3-9f78-cb257238fb92" />
+<img width="500"  alt="Screenshot 2026-03-08 194106" src="https://github.com/user-attachments/assets/10974409-f346-4956-a11d-4797c05652b0" />
+<img width="500"  alt="Screenshot 2026-03-08 195229" src="https://github.com/user-attachments/assets/b8037177-4f0d-4396-bef4-fc32bd642a88" />
 
 ---
 
