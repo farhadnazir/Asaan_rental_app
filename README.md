@@ -32,8 +32,9 @@
 *(Click on images to enlarge)*
 
 | 📊 Interactive Dashboard | 🏢 Apartment Management |
-|:---:|:---:|
-| <img src="[Dashboard-Screenshot-Link-Here]" width="400" alt="Dashboard"> | <img src="[Apartment-Screenshot-Link-Here]" width="400" alt="Apartments"> |
+|:---:|:---:|<img width="1916" height="1067" alt="Screenshot 2026-03-08 194106" src="https://github.com/user-attachments/assets/2c7828ff-b2a5-459e-9a9d-fbd04f867f12" />
+
+| <img src="https://github.com/user-attachments/assets/2c7828ff-b2a5-459e-9a9d-fbd04f867f12" width="400" alt="Dashboard"> | <img src="[Apartment-Screenshot-Link-Here]" width="400" alt="Apartments"> |
 
 | 👥 Tenant Profiles | 📝 Payment Tracking |
 |:---:|:---:|
