@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Google%23Drive-4285F4.svg?style=for-the-badge&logo=google-drive&logoColor=white" alt="Google Drive" />
+  <img src="https://img.shields.io/badge/Google%20Drive-4285F4.svg?style=for-the-badge&logo=google-drive&logoColor=white" alt="Google Drive" />
 </p>
 
 > Streamline your real estate operations, manage tenant records, track agreements, and never lose your data with automated cloud backups.
@@ -39,9 +39,9 @@
 |:---:|:---:|
 | <img width="400" alt="Screenshot 2026-03-08 195214" src="https://github.com/user-attachments/assets/1e58e7d7-ef9e-41b5-a0d8-ecd8aa98ad7d" /> |<img width="400"  alt="Screenshot 2026-03-08 195237" src="https://github.com/user-attachments/assets/13efe8b9-9ba5-425b-b4ea-1d3656de4efb" /> |
 
-<img width="500"  alt="Google Drive Backup" src="https://github.com/user-attachments/assets/7687b6fd-9172-44d3-9f78-cb257238fb92" />
-<img width="500"  alt="Security Pin Code" src="https://github.com/user-attachments/assets/10974409-f346-4956-a11d-4797c05652b0" />
-<img width="500"  alt="Agreements" src="https://github.com/user-attachments/assets/b8037177-4f0d-4396-bef4-fc32bd642a88" />
+| ☁️ Google Drive Backup | 🔐 Security PIN | 📄 Agreements |
+|:---:|:---:|:---:|
+| <img width="280" alt="Google Drive Backup" src="https://github.com/user-attachments/assets/7687b6fd-9172-44d3-9f78-cb257238fb92" /> | <img width="280" alt="Security Pin Code" src="https://github.com/user-attachments/assets/10974409-f346-4956-a11d-4797c05652b0" /> | <img width="280" alt="Agreements" src="https://github.com/user-attachments/assets/b8037177-4f0d-4396-bef4-fc32bd642a88" /> |
 
 ---
 
@@ -50,7 +50,7 @@
 You can easily download and run the application on your Windows machine without needing to compile the code.
 
 1. Go to the [Releases](../../releases/latest) page.
-2. Download the latest `Rental_Pro_Setup.exe` file.
+2. Download the latest `Asaan_RentalPro_Setup.exe` file.
 3. Run the installer and follow the on-screen instructions.
 4. Enjoy managing your properties offline!
 
@@ -74,6 +74,8 @@ I am a Full-Stack Software Engineer specializing in Flutter and Laravel. I build
 * 📧 **Email:** farhadnazir1111@gmail.com
 * 💼 **LinkedIn:** [linkedin.com/in/farhadnazir](https://linkedin.com/in/farhadnazir)
 * 🌐 **Portfolio:** [Check out my other projects](https://github.com/farhadnazir)
+
+> Also by me: [**Asaan Optics**](https://github.com/farhadnazir/Asaan-Optics-App-Official), POS and shop management for optical shops on Android, Windows and iPhone/iPad.
 
 <div align="center">
   <i>If you find this project interesting, feel free to reach out for collaborations!</i>
